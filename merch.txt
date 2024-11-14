@@ -1,0 +1,273 @@
+<artistMerch>
+ <!-- Taylor Swift Merch -->
+    <merchItem>
+        <id>1</id>
+        <artist>Taylor Swift</artist>
+        <productName>Folklore Hoodie</productName>
+        <imageLink>https://thedetaileddiva.com/cdn/shop/files/FOLKLOREGREYHOODIE.jpg?v=1706561112&width=493</imageLink>
+        <price>49.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Soft cotton hoodie featuring the album cover design of Taylor Swift's Folklore album. Available in multiple sizes, comfortable and perfect for cozy days.</details>
+    </merchItem>
+    <merchItem>
+        <id>2</id>
+        <artist>Taylor Swift</artist>
+        <productName>Red Beanie</productName>
+        <imageLink>https://img.eobuwie.cloud/eob_product_528w_704h(9/5/b/b/95bb17995aa0d7882b39f1bafdb8f957527f74dd_01_0196499573191_LS.jpg,webp)/caciula-new-era-beanie-60284978-maroon.webp</imageLink>
+        <price>19.99</price>
+        <type>accessories</type>
+        <disponibility>In Stock</disponibility>
+        <details>Stylish red beanie inspired by Taylor Swift's "Red" era. Perfect for keeping warm and showing off your Swiftie pride. One-size-fits-all design.</details>
+    </merchItem>
+    <merchItem>
+        <id>3</id>
+        <artist>Taylor Swift</artist>
+        <productName>Lover Poster</productName>
+        <imageLink>https://fydn.imgix.net/m%2Fgen%2Fart-print-std-portrait-p1%2Fef8862fa-216e-4124-a3c4-807085df7327.jpg?auto=format%2Ccompress&q=75&ar=1:1&fit=crop&crop=top&w=1280</imageLink>
+        <price>14.99</price>
+        <type>art</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Beautiful print of Taylor Swift's Lover album artwork. High-quality paper, ideal for framing and adding a touch of Swiftie elegance to any space.</details>
+    </merchItem>
+    <merchItem>
+        <id>4</id>
+        <artist>Taylor Swift</artist>
+        <productName>1989 Vinyl</productName>
+        <imageLink>https://music-box.ro/image/cache/catalog/Products/taylor-swift-1989-taylor-s-version-vinyl-550x550.jpg</imageLink>
+        <price>27.99</price>
+        <type>music</type>
+        <disponibility>In Stock</disponibility>
+        <details>Deluxe vinyl edition of Taylor Swift's iconic 1989 album. Includes exclusive tracks and special album artwork, perfect for vinyl collectors.</details>
+    </merchItem>
+
+    <!-- Imagine Dragons Merch -->
+    <merchItem>
+        <id>5</id>
+        <artist>Imagine Dragons</artist>
+        <productName>Smoke + Mirrors T-Shirt</productName>
+        <imageLink>https://m.media-amazon.com/images/I/71Yxv7tb0KL._AC_SX569_.jpg</imageLink>
+        <price>24.99</price>
+        <type>clothes</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Graphic tee featuring the artwork from Imagine Dragons' Smoke + Mirrors album. Made from soft cotton material for everyday comfort.</details>
+    </merchItem>
+    <merchItem>
+        <id>6</id>
+        <artist>Imagine Dragons</artist>
+        <productName>Evolve Album Poster</productName>
+        <imageLink>https://m.media-amazon.com/images/I/51ZoWwWTzuL.__AC_SX300_SY300_QL70_ML2_.jpg</imageLink>
+        <price>10.99</price>
+        <type>art</type>
+        <disponibility>In Stock</disponibility>
+        <details>Poster of Imagine Dragons' Evolve album cover. High-quality print, perfect for framing and adding to your music memorabilia collection.</details>
+    </merchItem>
+    <merchItem>
+        <id>7</id>
+        <artist>Imagine Dragons</artist>
+        <productName>Origins Cap</productName>
+        <imageLink>https://shop.imaginedragonsmusic.com/cdn/shop/files/Untitled-1.png?v=1700152593&width=800</imageLink>
+        <price>15.99</price>
+        <type>accessories</type>
+        <disponibility>In Stock</disponibility>
+        <details>Black cap with "Origins" logo, part of the Imagine Dragons' official merchandise. Adjustable strap for a comfortable fit.</details>
+    </merchItem>
+    <merchItem>
+        <id>8</id>
+        <artist>Imagine Dragons</artist>
+        <productName>Mercury Vinyl</productName>
+        <imageLink>https://shop.imaginedragonsmusic.com/cdn/shop/files/IMAGD-0041MercuryAct2Vinyl_ProductMock.png?v=1695323351&width=800</imageLink>
+        <price>32.99</price>
+        <type>music</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Vinyl edition of Imagine Dragons' Mercury Act 2 album. Features high-quality sound and exclusive packaging for vinyl enthusiasts.</details>
+    </merchItem>
+
+    <!-- BTS Merch -->
+    <merchItem>
+        <id>9</id>
+        <artist>BTS</artist>
+        <productName>Love Yourself T-Shirt</productName>
+        <imageLink>https://www.btsmerchshop.com/wp-content/uploads/2019/10/12113-f2ef2c.jpg</imageLink>
+        <price>26.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Comfortable and stylish t-shirt featuring BTS's "Love Yourself" album logo. Made from soft cotton for a relaxed, casual look.</details>
+    </merchItem>
+    <merchItem>
+        <id>10</id>
+        <artist>BTS</artist>
+        <productName>Light Stick</productName>
+        <imageLink>https://www.kpop.ro/wp-content/uploads/2020/07/Bts-Official-Army-Bomb-Light-Stick-Map-Of-The-Soul-Edition-8809415796643.jpg</imageLink>
+        <price>39.99</price>
+        <type>accessories</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Official BTS ARMY Bomb light stick, perfect for concerts and fan events. Features LED lighting with customizable settings for an enhanced fan experience.</details>
+    </merchItem>
+    <merchItem>
+        <id>11</id>
+        <artist>BTS</artist>
+        <productName>Map of the Soul Poster</productName>
+        <imageLink>https://choicemusicla.com/cdn/shop/products/Screen_Shot_2019-04-16_at_11.20.03_AM_1100x.png?v=1555439374</imageLink>
+        <price>11.99</price>
+        <type>art</type>
+        <disponibility>In Stock</disponibility>
+        <details>Map of the Soul album poster by BTS. Vibrant colors and high-quality print make this poster perfect for any BTS fan's room.</details>
+    </merchItem>
+
+    <!-- Louis Armstrong Merch -->
+    <merchItem>
+        <id>12</id>
+        <artist>Louis Armstrong</artist>
+        <productName>Jazz Hat</productName>
+        <imageLink>https://www.ghelter.com/cdn/shop/files/Billie-jazz-leather-porkpie-hat-light-black.webp?v=1724069822&width=713</imageLink>
+        <price>18.99</price>
+        <type>accessories</type>
+        <disponibility>In Stock</disponibility>
+        <details>Classic jazz hat inspired by Louis Armstrong's iconic look. Made from durable leather for a timeless, stylish appearance.</details>
+    </merchItem>
+
+    <!-- Billie Eilish Merch -->
+    <merchItem>
+        <id>13</id>
+        <artist>Billie Eilish</artist>
+        <productName>Bad Guy Hoodie</productName>
+        <imageLink>https://thebanyantee.us/cdn/shop/products/billie-eilish-hoodie-bad-guy_665cbd6f-5163-460d-8cf6-a2cf76707524.jpg?v=1696585364&width=823</imageLink>
+        <price>48.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Billie Eilish's iconic "Bad Guy" hoodie, featuring bold typography and graphics. Made from soft and comfortable material, perfect for casual wear.</details>
+    </merchItem>
+	
+   <merchItem>
+        <id>14</id>
+        <artist>Queen</artist>
+        <productName>Queen Vinyl Box Set</productName>
+        <imageLink>https://www.rockshop.ro/images/product/38-queen-complete-studio-collection-box-vinyljpg.jpg</imageLink>
+        <price>59.99</price>
+        <type>music</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>This comprehensive vinyl box set includes all of Queen's studio albums, beautifully remastered for audiophiles and collectors. Perfect for any Queen fan looking to own the ultimate vinyl collection.</details>
+    </merchItem>
+
+    <!-- BLACKPINK Merch -->
+    <merchItem>
+        <id>15</id>
+        <artist>BLACKPINK</artist>
+        <productName>How You Like That Poster</productName>
+        <imageLink>https://www.buvu.ro/files/e/80770/poster-black-pink-how-you-like-that.jpeg</imageLink>
+        <price>11.99</price>
+        <type>art</type>
+        <disponibility>In Stock</disponibility>
+        <details>Poster featuring BLACKPINK's "How You Like That" single artwork. Perfect for decorating any fan's space with the fierce energy of the K-pop group.</details>
+    </merchItem>
+
+    <!-- Miles Davis Merch -->
+    <merchItem>
+        <id>16</id>
+        <artist>Miles Davis</artist>
+        <productName>Blue in Green Poster</productName>
+        <imageLink>https://www.italianpiano.com/wp-content/uploads/2022/06/kind-of-blue_miles-davis.jpg</imageLink>
+        <price>15.99</price>
+        <type>art</type>
+        <disponibility>In Stock</disponibility>
+        <details>Poster of Miles Davis' iconic "Blue in Green" from his album "Kind of Blue". A tribute to one of the most influential jazz musicians in history.</details>
+    </merchItem>
+
+    <!-- Coldplay Merch -->
+    <merchItem>
+        <id>17</id>
+        <artist>Coldplay</artist>
+        <productName>A Head Full of Dreams Hoodie</productName>
+        <imageLink>https://www.cornershirt.com/wp-content/uploads/2020/01/coldplay-a-head-full-of-dreams-Hoodies.jpg</imageLink>
+        <price>44.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Cozy hoodie featuring Coldplay's "A Head Full of Dreams" album art. Made from soft, high-quality fabric for ultimate comfort during any season.</details>
+    </merchItem>
+
+    <!-- Drake Merch -->
+    <merchItem>
+        <id>18</id>
+        <artist>Drake</artist>
+        <productName>OVO Hat</productName>
+        <imageLink>https://ae-pic-a1.aliexpress-media.com/kf/S0a5bbb1bb9784bee8ee93c4a6977715fG/OVO-October-s-Very-Own-Drake-s-Owl-Custom-made-Baseball-Cap-Sports-Cap-Luxury-Man.jpg_.webp</imageLink>
+        <price>17.99</price>
+        <type>accessories</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Baseball cap with Drake's OVO (October's Very Own) logo embroidered on the front. A sleek and stylish accessory for any fan of the rap icon.</details>
+    </merchItem>
+
+    <!-- The Beatles Merch -->
+    <merchItem>
+        <id>19</id>
+        <artist>The Beatles</artist>
+        <productName>White Album Vinyl</productName>
+        <imageLink>https://cdn.dc5.ro/img-prod/262169755-1.jpeg</imageLink>
+        <price>45.99</price>
+        <type>music</type>
+        <disponibility>In Stock</disponibility>
+        <details>The legendary Beatles "White Album" available on high-quality vinyl. Features some of their most influential tracks in music history.</details>
+    </merchItem>
+
+    <!-- Lady Gaga Merch -->
+    <merchItem>
+        <id>20</id>
+        <artist>Lady Gaga</artist>
+        <productName>Born This Way Poster</productName>
+        <imageLink>https://m.media-amazon.com/images/I/71-7Eq7fR4L._AC_SY879_.jpg</imageLink>
+        <price>13.99</price>
+        <type>art</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Poster featuring Lady Gaga's iconic "Born This Way" album cover. A powerful image to celebrate individuality and strength, perfect for any Gaga fan.</details>
+    </merchItem>
+
+    <!-- Slipknot Merch -->
+    <merchItem>
+        <id>21</id>
+        <artist>Slipknot</artist>
+        <productName>Self-Titled Album T-Shirt</productName>
+        <imageLink>https://m.media-amazon.com/images/I/B1pppR4gVKL._CLa%7C2140%2C2000%7CA1zTZYwbKiL.png%7C0%2C0%2C2140.0%2C2000.0_AC_SX466_.png</imageLink>
+        <price>22.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Black t-shirt featuring the artwork from Slipknot's self-titled album. A perfect shirt for fans of the heavy metal band, made with comfortable cotton fabric.</details>
+    </merchItem>
+
+    <!-- Frank Sinatra Merch -->
+    <merchItem>
+        <id>22</id>
+        <artist>Frank Sinatra</artist>
+        <productName>My Way T-Shirt</productName>
+        <imageLink>https://m.media-amazon.com/images/I/41xHDA8qG+L._AC_.jpg</imageLink>
+        <price>24.99</price>
+        <type>clothes</type>
+        <disponibility>In Stock</disponibility>
+        <details>Classic black t-shirt featuring the "My Way" album cover artwork. A tribute to the legendary Frank Sinatra, perfect for fans of his timeless music.</details>
+    </merchItem>
+
+    <!-- Evanescence Merch -->
+    <merchItem>
+        <id>23</id>
+        <artist>Evanescence</artist>
+        <productName>Haunted Necklace</productName>
+        <imageLink>https://www.metal-shop.ro/images/produkty/thumb/the_ghost_of_whitby.jpg.webp</imageLink>
+        <price>15.99</price>
+        <type>accessories</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>A gothic-inspired necklace featuring a haunted design, perfect for any fan of Evanescence's dark and emotional music style.</details>
+    </merchItem>
+
+    <!-- Ed Sheeran Merch -->
+    <merchItem>
+        <id>24</id>
+        <artist>Ed Sheeran</artist>
+        <productName>Plus Vinyl</productName>
+        <imageLink>https://magnoliarecord.store/cdn/shop/files/5_e47d4bf1-f21c-48d3-9f58-dd7be672afe2_540x.png?v=1700082597</imageLink>
+        <price>28.99</price>
+        <type>music</type>
+        <disponibility>Out of Stock</disponibility>
+        <details>Ed Sheeran’s debut album "Plus" available on vinyl. Includes the original tracks that introduced his soulful sound to the world. A collector's item for Ed’s dedicated fans.</details>
+    </merchItem>
+
+</artistMerch>
