@@ -120,7 +120,7 @@
         <id>12</id>
         <artist>Louis Armstrong</artist>
         <productName>Jazz Hat</productName>
-        <imageLink>https://www.ghelter.com/cdn/shop/files/Billie-jazz-leather-porkpie-hat-light-black.webp?v=1724069822&width=713</imageLink>
+        <imageLink>https://watsonshatshop.com/wp-content/uploads/2016/01/MG_1959_side1.jpg</imageLink>
         <price>18.99</price>
         <type>accessories</type>
         <disponibility>In Stock</disponibility>
@@ -132,7 +132,7 @@
         <id>13</id>
         <artist>Billie Eilish</artist>
         <productName>Bad Guy Hoodie</productName>
-        <imageLink>https://thebanyantee.us/cdn/shop/products/billie-eilish-hoodie-bad-guy_665cbd6f-5163-460d-8cf6-a2cf76707524.jpg?v=1696585364&width=823</imageLink>
+        <imageLink>https://images-na.ssl-images-amazon.com/images/I/51UJ-BCIr9L.SS700.jpg</imageLink>
         <price>48.99</price>
         <type>clothes</type>
         <disponibility>In Stock</disponibility>
