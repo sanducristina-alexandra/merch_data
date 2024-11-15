@@ -4,7 +4,7 @@
         <id>1</id>
         <artist>Taylor Swift</artist>
         <productName>Folklore Hoodie</productName>
-        <imageLink>https://thedetaileddiva.com/cdn/shop/files/FOLKLOREGREYHOODIE.jpg?v=1706561112&width=493</imageLink>
+        <imageLink>https://i.etsystatic.com/24075540/r/il/7c0aac/3538127466/il_1140xN.3538127466_mw90.jpg</imageLink>
         <price>49.99</price>
         <type>clothes</type>
         <disponibility>In Stock</disponibility>
