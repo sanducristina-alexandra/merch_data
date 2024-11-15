@@ -24,7 +24,7 @@
         <id>3</id>
         <artist>Taylor Swift</artist>
         <productName>Lover Poster</productName>
-        <imageLink>https://fydn.imgix.net/m%2Fgen%2Fart-print-std-portrait-p1%2Fef8862fa-216e-4124-a3c4-807085df7327.jpg?auto=format%2Ccompress&q=75&ar=1:1&fit=crop&crop=top&w=1280</imageLink>
+        <imageLink>https://www.musicshopeurope.com/product/image/medium/hl00322682_0.jpg</imageLink>
         <price>14.99</price>
         <type>art</type>
         <disponibility>Out of Stock</disponibility>
@@ -66,7 +66,7 @@
         <id>7</id>
         <artist>Imagine Dragons</artist>
         <productName>Origins Cap</productName>
-        <imageLink>https://shop.imaginedragonsmusic.com/cdn/shop/files/Untitled-1.png?v=1700152593&width=800</imageLink>
+        <imageLink>https://m.media-amazon.com/images/I/51M41rHKQmL._AC_SX569_.jpg</imageLink>
         <price>15.99</price>
         <type>accessories</type>
         <disponibility>In Stock</disponibility>
@@ -76,7 +76,7 @@
         <id>8</id>
         <artist>Imagine Dragons</artist>
         <productName>Mercury Vinyl</productName>
-        <imageLink>https://shop.imaginedragonsmusic.com/cdn/shop/files/IMAGD-0041MercuryAct2Vinyl_ProductMock.png?v=1695323351&width=800</imageLink>
+        <imageLink>https://cdn.dc5.ro/img-prod/2062202982-1.jpeg</imageLink>
         <price>32.99</price>
         <type>music</type>
         <disponibility>Out of Stock</disponibility>
